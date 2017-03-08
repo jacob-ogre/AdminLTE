@@ -1,5 +1,7 @@
 #' Insert the shinydashboard AdminLTE CSS
 #'
+#' Source:
+#'
 #' @importFrom shiny HTML
 #' @export
 AdminLTE <- function() {
